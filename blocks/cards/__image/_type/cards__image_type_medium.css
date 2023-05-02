@@ -2,3 +2,9 @@
   max-width: 305px;
   max-height: 180px;
 }
+
+@media screen and (max-width: 650px) {
+  .cards__image_type_medium {
+    width: 100%;
+  }
+}

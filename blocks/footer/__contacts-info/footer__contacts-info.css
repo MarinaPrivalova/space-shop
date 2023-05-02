@@ -2,3 +2,10 @@
   display: flex;
   flex-direction: column;
 }
+
+@media screen and (max-width: 650px) {
+  .footer__contacts-info {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+}

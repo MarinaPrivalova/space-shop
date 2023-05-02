@@ -1,4 +1,16 @@
 .cards__image_type_large {
-  max-width: 305px;
-  max-height: 305px;
+  width: 305px;
+  height: 305px;
+}
+
+@media screen and (max-width: 650px) {
+  .cards__image_type_large {
+    height: 180px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .cards__image_type_large {
+    width: 100%;
+  }
 }

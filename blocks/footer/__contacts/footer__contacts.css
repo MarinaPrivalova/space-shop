@@ -6,3 +6,9 @@
   width: 100%;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 650px) {
+  .footer__contacts {
+    flex-direction: column;
+  }
+}

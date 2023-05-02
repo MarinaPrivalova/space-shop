@@ -3,3 +3,9 @@
   margin-top: 10px;
   margin-bottom: 50px;
 }
+
+@media screen and (max-width: 650px) {
+  .cards_type_medium {
+    grid-template-columns: 1fr;
+  }
+}

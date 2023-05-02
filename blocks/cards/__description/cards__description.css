@@ -6,3 +6,9 @@
   align-items: start;
   max-width: 240px;
 }
+
+@media screen and (max-width: 650px) {
+  .cards__description {
+    margin-top: 15px;
+  }
+}
