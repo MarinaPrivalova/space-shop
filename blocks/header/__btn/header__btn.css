@@ -2,6 +2,11 @@
   opacity: .8;
 }
 
+.header__btn:hover {
+  background: -webkit-linear-gradient(left top,#4C4CFF 0%, #801AB3 99%);
+  background: -moz-linear-gradient(left top,#4C4CFF 0%, #801AB3 99%);
+}
+
 @media screen and (max-width: 650px) {
   .header__btn {
     margin-top: 10px;
