@@ -1,0 +1,6 @@
+.footer__icons {
+  margin: 20px auto 30px;
+  display: flex;
+  list-style: none;
+  padding: 0;
+}

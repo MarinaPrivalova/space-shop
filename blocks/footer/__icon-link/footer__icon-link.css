@@ -1,0 +1,8 @@
+.footer__icon-link {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.footer__icon-link:hover {
+  opacity: .7;
+}

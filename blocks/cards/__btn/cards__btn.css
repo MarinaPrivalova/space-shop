@@ -1,0 +1,17 @@
+.cards__btn {
+  margin-bottom: 10px;
+}
+
+.cards__btn:after {
+  content: "";
+  position: absolute;
+  background: transparent;
+  background: -moz-linear-gradient(left top, #ffffff -100%, rgba(0, 0, 0, 0.1) 100%);
+  background: -webkit-linear-gradient(left top, #ffffff -100%, rgba(128, 26, 179, 0) 100%);
+  left: 0;
+  top: 0;
+  display: block;
+  height: 100%;
+  width: 100%;
+  border-radius: 4px;
+}

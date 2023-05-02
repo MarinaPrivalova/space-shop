@@ -1,0 +1,9 @@
+.cards {
+  list-style: none;
+  max-width: 620px;
+  margin: 0 auto;
+  display: grid;
+  gap: 10px;
+  justify-content: center;
+  padding: 0;
+}

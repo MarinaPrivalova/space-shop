@@ -1,0 +1,7 @@
+.rating-area {
+  margin-bottom: 16px;
+  max-width: 172px;
+  width: 100%;
+  height: 28px;
+  display: flex;
+}

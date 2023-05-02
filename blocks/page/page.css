@@ -1,0 +1,11 @@
+.page {
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+  min-height: 100vh;
+  background: url(../../images/bg-image.png) #131316 no-repeat top center;
+  background-size: 1000px 660px;
+  font-family: "Segoe UI", "Arial", "Helvetica", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

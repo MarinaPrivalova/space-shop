@@ -1,0 +1,6 @@
+.cards__prices_type_large {
+  margin: 0;
+  max-width: 240px;
+  justify-content: space-between;
+  margin-bottom: 22px;
+}

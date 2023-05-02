@@ -1,0 +1,8 @@
+.cards__text_type_promo {
+  margin: 0;
+  margin-bottom: revert;
+}
+
+.cards__text_type_promo:last-of-type {
+  margin-bottom: 0;
+}

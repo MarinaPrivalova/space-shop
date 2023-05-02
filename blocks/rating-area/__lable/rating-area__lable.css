@@ -1,0 +1,8 @@
+.rating-area__lable {
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.rating-area__lable:last-of-type {
+  margin-right: 0;
+}
