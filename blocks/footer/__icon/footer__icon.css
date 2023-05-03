@@ -9,12 +9,12 @@
 }
 
 .footer__icon:nth-child(2) {
-  background: url(../../../images/icon-fb.svg) no-repeat;
+  background: url(../../../images/icon-fb.png) no-repeat;
 }
 
 .footer__icon:last-of-type {
   margin-right: 0;
-  background: url(../../../images/icon-inst.svg) no-repeat;
+  background: url(../../../images/icon-inst.png) no-repeat;
 }
 
 .footer__icon:hover {
