@@ -6,3 +6,11 @@
 .rating-area__lable:last-of-type {
   margin-right: 0;
 }
+
+.rating-area__lable:before {
+  content: url(../../../images/icon-spaceship.svg);
+}
+
+.rating-area__lable:last-of-type:before {
+  content: url(../../../images/icon-spaceship_grey.svg); 
+}
