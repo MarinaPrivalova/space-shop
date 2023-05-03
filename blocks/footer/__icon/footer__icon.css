@@ -1,9 +1,22 @@
 .footer__icon {
-  max-width: 64px;
-  max-height: 64px;
+  width: 64px;
+  height: 64px;
   margin-right: 20px;
+}
+
+.footer__icon:nth-child(1) {
+  background: url(../../../images/icon-yt.svg) no-repeat;
+}
+
+.footer__icon:nth-child(2) {
+  background: url(../../../images/icon-fb.svg) no-repeat;
 }
 
 .footer__icon:last-of-type {
   margin-right: 0;
+  background: url(../../../images/icon-inst.svg) no-repeat;
+}
+
+.footer__icon:hover {
+  opacity: .7;
 }
